@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344393053859",
+    "project_id": "mindy-apk",
+    "storage_bucket": "mindy-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344393053859:android:02d3aed2a7356f5699b116",
+        "android_client_info": {
+          "package_name": "com.example.mindy_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsJosUdrJ4ka_oPkIGSbBYtTkllghoGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
