@@ -1,0 +1,7 @@
+<!-- res/layout/item_chat_message.xml -->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/chat"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Default Message Text"/>
